@@ -1,6 +1,6 @@
 $(function(){
 
-    let txt1 = "おはようございます";
+    let txt1 = "ごきげんよう！";
     let txt2 = "お元気ですか？";
     let num1 = 20;
     let num = 32;    
